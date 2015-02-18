@@ -116,3 +116,17 @@ h5 {
   	height: 70px;
   	font-size: 20px;
 }
+
+/* a href colors */
+a:link {
+    color: #FFFFFF;
+}
+a:visited {
+    color: #66FF33;
+}
+a:hover {
+    color: #1919FF;
+}
+a:active {
+    color: #FF3300;
+}
